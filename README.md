@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+MERN+Stack+Developer;%20Motivated;I%20Always%20enjoy%20learning%20new%20things&center=true&width=600&height=60"></a>
 </p>
-
-<h1>About me.....!!<h1>
+About me.....!!
 <h3 align="center"> I'm Dedicated,Committed and Persistent about Web Development.I'm Currently Learning Full stack web Development and brushing up my basics,and looking for an opportunity to learn and grow more as Full Stack Web Developer.</h3>
 <br>
 
