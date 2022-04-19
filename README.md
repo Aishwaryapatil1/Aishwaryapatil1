@@ -25,8 +25,7 @@ Here are some ideas to get you started:
    <img align="right" src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" width="300px">
    
 
-
-- 🌱 I’m currently learning **Full stack web development.**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/aishwaryapatil1/overview](https://app.netlify.com/teams/aishwaryapatil1/overview)
 
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing](https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing)
 
-- ⚡ Fun fact **I thought that C++ and C# are same.**
+- ⚡ Fun fact **when i first heard C++ and C#,I thought that are same language.**
 
 <br>
  
