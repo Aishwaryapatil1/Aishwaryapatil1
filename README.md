@@ -25,13 +25,20 @@ Here are some ideas to get you started:
    <img align="right" src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" width="300px">
    
 
-- 🌱 I’m currently learning **Full Stack Web Development**
 
-- 📝 I regularly write articles on iaishwaryapatil01
+- 🌱 I’m currently learning **Full stack web development.**
 
-- 💬 Ask me about **Html,css,Javascript,Mongodb,Reactjs**
+- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/aishwaryapatil1/overview](https://app.netlify.com/teams/aishwaryapatil1/overview)
+
+- 📝 I regularly write articles on [https://medium.com/@iaishwaryapatil01](https://medium.com/@iaishwaryapatil01)
+
+- 💬 Ask me about **HTML,CSS,Javascript.**
 
 - 📫 How to reach me **iaishwaryapatil01@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing](https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing)
+
+- ⚡ Fun fact **I thought that C++ and C# are same.**
 
 <br>
  
