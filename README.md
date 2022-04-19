@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<div>
- <div align="right">
-   <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" width="350px">
-</div>
+   <img align="right" src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" width="300px">
+   
 
 - 🌱 I’m currently learning **Full stack web development**
 
