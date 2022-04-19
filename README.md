@@ -40,7 +40,7 @@ About me.....!!
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing](https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing)
 
-- ⚡ Fun fact **when i first heard C++ and C#,I thought that are same language.**
+- ⚡ Fun fact **when i first heard C++ and C#,I thought that they both are same language.**
 
 <br>
  
