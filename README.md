@@ -47,17 +47,11 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img align="left" height="250px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwaryapatil1&show_icons=true&locale=en&layout=compact" alt="aishwaryapatil1" />
-<img align="right" height="250px" width="350px" src="https://github-readme-stats.vercel.app/api?username=aishwaryapatil1&show_icons=true&locale=en" alt="aishwaryapatil1"/>
+<img align="right" height="250px" width="400px" src="https://github-readme-stats.vercel.app/api?username=aishwaryapatil1&show_icons=true&locale=en" alt="aishwaryapatil1"/>
 <img align="center"<img  align="center" height="250px" width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwaryapatil1&" alt="aishwaryapatil1" />
  </p>
 <br><br>
 
 <img alt="Aishwarya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aishwaryapatil1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
-
-<!-- <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka3002&show_icons=true&locale=en&layout=compact" alt="anushka3002" />
-<img align="center" height="250px" width="450px" src="https://github-readme-stats.vercel.app/api?username=anushka3002&show_icons=true&locale=en" alt="anushka3002" />
-</p>
- -->
 
