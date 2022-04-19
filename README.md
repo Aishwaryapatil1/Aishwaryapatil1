@@ -1,3 +1,4 @@
+
 <!-- ### Hi there 👋 -->
 
 <!--
@@ -24,7 +25,12 @@ About me.....!!
 <h3 align="center"> I'm Dedicated,Committed and Persistent about Web Development.I'm Currently Learning Full stack web Development and brushing up my basics,and looking for an opportunity to learn and grow more as Full Stack Web Developer.</h3>
 <br>
 
-   <img align="right" src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" width="300px">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryapati1l&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryapatil1" /> </p>
+
+<p align="left"> <a href="https://twitter.com/iaishwaryapatil" target="blank"><img src="https://img.shields.io/twitter/follow/iaishwaryapatil?logo=twitter&style=for-the-badge" alt="iaishwaryapatil" /></a> </p>
+
+<img align="right" src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" width="300px">
    
 
 - 🌱 I’m currently learning **React.js**
