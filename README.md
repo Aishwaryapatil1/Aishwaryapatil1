@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div>
  <div align="right">
-   <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="250px" width="30px">
+   <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="250px" width="350px">
 </div>
 
 - 🌱 I’m currently learning **Full stack web development**
