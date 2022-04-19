@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 
 ---
 
+# Brief about me...!!!
+I am dedicated  and  determined  aspiring  full-stack developer with a specialization  in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
+<br><br>
+
+
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"></img>
+
+----
 <div>
   <div align="right">
     <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
@@ -56,12 +64,5 @@ Here are some ideas to get you started:
   
 ---
 
-<div>
-<p align="left">
-  <img align="center" src="https://media.giphy.com/media/l3fQsvbfwo3rJcmwo/giphy.gif" height="270px" width="180px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SrishtiSinghD&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats" width="450px"> 
-  <img align="center" src="https://media.giphy.com/media/H7YO03BHmBMWuWUkez/giphy.gif" width="180px">
-</p></div>
-<br>
 
 
