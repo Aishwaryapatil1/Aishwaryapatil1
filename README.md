@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="250px">
 </div>
 
-- 🌱 I’m currently learning **Full stack web development at Masai School,Bengaluru.**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 📝 I regularly write articles on iaishwaryapatil01
 
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
  
  ----------------------------------------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwaryapatil1&show_icons=true&locale=en&layout=compact" alt="aishwaryapatil1" height="300px" width="250px" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwaryapatil1&show_icons=true&locale=en&layout=compact" alt="aishwaryapatil1" height="350px" width="250px" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aishwaryapatil1&show_icons=true&locale=en" alt="aishwaryapatil1" height="300px" width="250px"/></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aishwaryapatil1&show_icons=true&locale=en" alt="aishwaryapatil1" height="350px" width="250px"/></p>
  
  </br>
  
