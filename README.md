@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aishwarya Patil from karnataka,India</h1>
 
 <p align="center">
-  <a href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+MERN+Stack+Developer;%20Motivated;Always%20ready%20to%20learn%20new%20things&center=true&width=600&height=60"></a>
+  <a href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+MERN+Stack+Developer;%20Motivated;I%20Always%20enjoy%20learning%20new%20things&center=true&width=600&height=60"></a>
 </p>
 
 About me.....!!
-<h4 align="center">Dedicated, Committed and Persistent about Web Develpemnt,I enjoy learning new things.I'm Currently Learning Full stack web Development and brushing up my basics,and looking for an opportunity to learn and grow more as Full Stack Web Developer.</h4>
+<h4 align="center">I'm Dedicated,Committed and Persistent about Web Development.I'm Currently Learning Full stack web Development and brushing up my basics,and looking for an opportunity to learn and grow more as Full Stack Web Developer.</h4>
 <br>
 
    <img align="right" src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" width="300px">
