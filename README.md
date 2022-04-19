@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryapatil1&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryapatil1" /> </p>
-
 <!-- ### Hi there 👋 -->
 
 <!--
@@ -19,17 +17,16 @@ Here are some ideas to get you started:
 
 <!-- <h1 align="center">Hi 👋, I'm Aishwarya Patil</h1> -->
 
+  <h1 align="center">Hi 👋, I'm Aishwarya Patil</h1>
+<h3 align="center">I'm Currently Learning Full stack web Development and brushing up my basics, I believe in learning anything the FeYmAnN WaY.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryapatil1&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryapatil1" /> </p>
 
 
 <div>
   <div align="right">
     <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
   </div>
-
-  <h1 align="center">Hi 👋, I'm Aishwarya Patil</h1>
-<h3 align="center">I'm Currently Learning Full stack web Development and brushing up my basics, I believe in learning anything the FeYmAnN WaY.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryapatil1&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryapatil1" /> </p>
 
 - 🌱 I’m currently learning **Full stack web development at Masai School,Bengaluru.**
 
