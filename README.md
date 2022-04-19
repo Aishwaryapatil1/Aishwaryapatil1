@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Aishwarya Patil</h1>
 
+<p align="center">
+  <a href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Web+Developer;%20Enthusiast;Always%20ready%20to%20learn%20new%20things&center=true&width=500&height=50"></a>
+</p>
+<hr/>
 
-<h4 align="center">I'm Currently Learning Full stack web Development and brushing up my basics, I believe in learning anything the FeYmAnN WaY.</h4>
+<h4 align="center">Dedicated, Committed and Persistent about Web Develpemnt,I enjoy learning new things.I'm Currently Learning Full stack web Development and brushing up my basics,and looking for an opportunity to learn and grow more as Full Stack Web Developer.</h4>
 
 <br>
 
