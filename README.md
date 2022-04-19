@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Aishwarya Patil</h1>
+<!-- <h1 align="center">Hi 👋, I'm Aishwarya Patil</h1> -->
 <div>
   <h1 align="center"> 
     <strong><img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px"> I am <mark>Aishwarya Patil</mark></strong><img src="https://media.giphy.com/media/3ohzdJFbmlJ3mQFRYI/giphy.gif" width="90px">
@@ -25,15 +25,6 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
-# Brief about me...!!!
-I am dedicated  and  determined  aspiring  full-stack developer with a specialization  in MERN stack. Seeking challenging  opportunities  to make  the  best  use  of my abilities  and  knowledge  to  develop  both  my professional and interpersonal skills, along with fulfilling the organization's growth and goals.
-<br><br>
-
-
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"></img>
-
-----
 <div>
   <div align="right">
     <img src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" align="right" height="300px" width="210px">
