@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">I'm Currently Learning Full stack web Development and brushing up my basics, I believe in learning anything the FeYmAnN WaY.</h4>
 
---------------------
+<br>
 
 <div>
  <div align="right">
