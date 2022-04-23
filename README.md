@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 <p align="center">
 <img align="left" height="250px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwaryapatil1&show_icons=true&locale=en&layout=compact" alt="aishwaryapatil1" />
 <img align="right" height="250px" width="400px" src="https://github-readme-stats.vercel.app/api?username=aishwaryapatil1&show_icons=true&locale=en" alt="aishwaryapatil1"/>
- </p>
 <img align="center" height="160px" width="620px" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwaryapatil1&" alt="aishwaryapatil1"/>
+ </p>
   
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- <h1 align="center">🔥 Streak stats</h1>
