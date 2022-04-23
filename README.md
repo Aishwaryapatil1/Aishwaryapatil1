@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+Aspiring+MERN+Stack+Developer;%20Enthusiastic%20and%20Motivated;I%20Always%20enjoy%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<h2>👩🏻‍⚖️About me.....!!</h2>
+<h2> 👩‍💻 About me.....!!</h2>
 <h3 align="center"> I'm Dedicated,Committed and Persistent about Web Development.
   I'm Currently Learning Full stack web Development and brushing up my basics,and looking for an opportunity to learn and grow more as Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <br>
