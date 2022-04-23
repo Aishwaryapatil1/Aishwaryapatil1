@@ -29,22 +29,15 @@ Here are some ideas to get you started:
 <br>
 
 
-
 <img align="right" src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" width="300px">
    
 
 - 🌱 I’m currently learning **React.js**
-
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/aishwaryapatil1/overview](https://app.netlify.com/teams/aishwaryapatil1/overview)
-
 - 📝 I regularly write articles on [https://medium.com/@iaishwaryapatil01](https://medium.com/@iaishwaryapatil01)
-
 - 💬 Ask me about **HTML,CSS,Javascript.**
-
 - 📫 How to reach me **iaishwaryapatil01@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing](https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing)
-
 - ⚡ Fun fact **when i first heard C++ and C#,I thought that they both are same language.**
 
 <br>
@@ -54,7 +47,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/iaishwaryapatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iaishwaryapatil" height="30" width="40" /></a>
 <a href="https://instagram.com/aishwaryaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aishwaryaa_" height="30" width="40" /></a>
 <a href="https://discord.gg/Aishwarya#4034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aishwarya#4034" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/aishwarya.patil.10441/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aishwarya.patil.10441/" height="30" width="40" /></a>
 </p>
 
  <br>
