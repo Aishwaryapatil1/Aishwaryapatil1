@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey👋, I'm Aishwarya Patil from Bengaluru,karnataka</h1>
+<h1 align="center">Hey👋, I'm Aishwarya Patil from Karnataka</h1>
 
 <!-- <p align="center">
   <a href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+Aspiring+MERN+Stack+Developer;%20Enthusiastic%20and%20Motivated;I%20Always%20enjoy%20learning%20new%20things&center=true&width=600&height=60"></a>
