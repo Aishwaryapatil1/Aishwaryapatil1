@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<img align="right" src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" width="300px">
+<img align="right" src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" width="350px">
    
 
 - 🌱 I’m currently learning **React.js**
