@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ❤ Views and Followers
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryapati1l&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryapatil1" /> 
-<a href="https://github.com/aishwaryapatil1?tab=followers"><img src="https://img.shields.io/github/followers/aishwaryapatil1?label=Followers&style=social" alt="GitHub Badge"></a></p>
+
 <h1 align="center">Hey👋, I'm Aishwarya Patil from Bengaluru,karnataka</h1>
 
 <!-- <p align="center">
@@ -90,3 +88,6 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
 
+# ❤ Views and Followers
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryapati1l&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryapatil1" /> 
+<a href="https://github.com/aishwaryapatil1?tab=followers"><img src="https://img.shields.io/github/followers/aishwaryapatil1?label=Followers&style=social" alt="GitHub Badge"></a></p>
