@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React.js**
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/aishwaryapatil1/overview](https://app.netlify.com/teams/aishwaryapatil1/overview)
-- 📝 I regularly write articles on [https://medium.com/@iaishwaryapatil01](https://medium.com/@iaishwaryapatil01)
+<!-- - 📝 I regularly write articles on [https://medium.com/@iaishwaryapatil01](https://medium.com/@iaishwaryapatil01) -->
 - 💬 Ask me about **HTML,CSS,Javascript.**
 - 📫 How to reach me **iaishwaryapatil01@gmail.com**
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing](https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing)
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <h1 align="left">🌐->Connect me on</h1>
 <p align="left">
 <a href="https://linkedin.com/in/iaishwaryapatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iaishwaryapatil" height="30" width="40" /></a>
+  <a href="https://medium.com/@iaishwaryapatil01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@iaishwaryapatil01" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/aishwaryaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aishwaryaa_" height="30" width="40" /></a> -->
 <!-- <a href = "https://www.instagram.com/aishwaryaa_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 <!-- <a href="https://discord.gg/Aishwarya#4034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aishwarya#4034" height="30" width="40" /></a>  -->
