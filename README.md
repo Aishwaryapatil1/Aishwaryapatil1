@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2> 💁‍♀️About me.....!!</h2>
-<h3 align="center"> I'm Dedicated,Committed and Persistent about Web Development.
+<h3 align="center">I completed my computer Science Engineering from VTU University,Belagavi,Karnataka.I'm Dedicated,Committed and Persistent about Web Development.
   I'm Currently Learning Full stack web Development and brushing up my basics,and looking for an opportunity to learn and grow more as Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <br>
 
