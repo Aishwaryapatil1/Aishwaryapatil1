@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br>
  
 <h1 align="left">🌐->Connect me on</h1>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/iaishwaryapatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iaishwaryapatil" height="30" width="40" /></a>
 <!-- <a href="https://instagram.com/aishwaryaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aishwaryaa_" height="30" width="40" /></a> -->
 <!-- <a href = "https://www.instagram.com/aishwaryaa_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
