@@ -20,9 +20,7 @@
 - 🌱 I’m currently learning **React.js**
 - 👨‍💻 All of my projects are available at [https://aishwarya-patil-portfolio.vercel.app/](https://aishwarya-patil-portfolio.vercel.app/)<!-- - 📝 I regularly write articles on [https://medium.com/@iaishwaryapatil01](https://medium.com/@iaishwaryapatil01) -->
 - 💬 Ask me about **HTML,CSS,Javascript.**
-- 📫 How to reach me **iaishwaryapatil01@gmail.com**
-<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing](https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing) -->
-- ⚡ Fun fact **when i first heard C++ and C#,I thought that they both are same language.**
+- 📫 How to reach me **iaishwaryapatil01@gmail.com** </br><!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing (https://drive.google.com/file/d/1QMS4pB08ltmaNWoest9tK2vY4gIoSqCA/view?usp=sharing)-->-⚡Fun fact **when i first heard C++ and C#,I thought that they both are same language.**
 
 <br>
  
