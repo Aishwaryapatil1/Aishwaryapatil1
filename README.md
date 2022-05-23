@@ -21,8 +21,9 @@
 - 👨‍💻 All of my projects are available at [https://aishwarya-patil-portfolio.vercel.app/](https://aishwarya-patil-portfolio.vercel.app/)
 - 📝 I regularly write articles on [https://medium.com/@iaishwaryapatil01](https://medium.com/@iaishwaryapatil01)
 - 💬 Ask me about **HTML,CSS,Javascript.**
-- 📫 How to reach me **iaishwaryapatil01@gmail.com** 
+- 📫 How to reach me **iaishwaryapatil01@gmail.com** <br/>
 -⚡Fun fact **when i first heard C++ and C#,I thought that they both are same language.**
+
 
 <br>
  
