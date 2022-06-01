@@ -14,7 +14,7 @@
 <br>
 
 
-<img align="right" src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" width="290px">
+<img align="right" src="https://media.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif" width="290px" height="250px">
    
 
 - 🌱 I’m currently learning **React.js**
